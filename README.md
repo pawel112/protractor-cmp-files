@@ -5,7 +5,6 @@ Compare files by using protractor (is not needed SSH or FTP connection). On clie
 # Usage
 var cmp = require('protractor-cmp-files-server');
 
-cmp.compare (file1, file2);
+cmp.compare();
 
-
-Return true if file1 and file2 are the same. Otherwise false.
+This module works with protractor-cmp-files-client on client.
