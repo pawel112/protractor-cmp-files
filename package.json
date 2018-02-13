@@ -1,0 +1,26 @@
+{
+  "name": "protractor-cmp-files-server",
+  "version": "0.0.1",
+  "description": "Compare files by using protractor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawel112/protractor-cmp-files.git"
+  },
+  "keywords": [
+    "protractor",
+    "compare",
+    "cmp"
+  ],
+  "author": "pawel112",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawel112/protractor-cmp-files-server/issues"
+  },
+  "homepage": "https://github.com/pawel112/protractor-cmp-files-server#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "file-compare": "0.0.2",
+    "fs": "0.0.1-security"
+  }
+}
