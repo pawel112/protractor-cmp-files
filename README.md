@@ -1,5 +1,5 @@
 # Readme
-Compare files by using protractor
+Compare files by using protractor (is not needed SSH or FTP connection). On client use the protractor-cmp-files-client module.
 
 
 # Usage
